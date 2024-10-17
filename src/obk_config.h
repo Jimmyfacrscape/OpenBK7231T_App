@@ -6,11 +6,11 @@
 
 //Start with all driver flags undefined
 
-//ENABLE_NTP - Enable support for Test drivers, NTP and HttpButton
+ENABLE_NTP - Enable support for Test drivers, NTP and HttpButton
 //ENABLE_DRIVER_LED - Enable support for all LED drivers
 //ENABLE_I2C - Enable support for I2C
 //ENABLE_DRIVER_BL0937 - Enable support for BL0937
-//ENABLE_DRIVER_BL0942 - Enable support for BL0942
+ENABLE_DRIVER_BL0942 - Enable support for BL0942
 //ENABLE_DRIVER_CSE7766 - Enable support for CSE7766
 //ENABLE_DRIVER_TUYAMCU - Enable support for TuyaMCU and tmSensor
 
